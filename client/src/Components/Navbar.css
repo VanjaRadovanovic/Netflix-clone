@@ -1,0 +1,19 @@
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 97%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 21px;
+    z-index: 1;
+    transition: 350ms
+}
+
+.logo_netflix{
+    height: 50px;
+}
+
+.avatar{
+    height: 30px;
+}
