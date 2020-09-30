@@ -16,11 +16,11 @@ const requests = [
     `${begginingOfUrl}/trending/all/week?api_key=${API_key}&language=en-US`,
     `${begginingOfUrl}/discover/tv?api_key=${API_key}&with_networks=213`,
     `${begginingOfUrl}/movie/top_rated?api_key=${API_key}&language=en-US`,
-    `${begginingOfUrl}/discover/movie?api_key=${API_key}&with_ganres=28`,
-    `${begginingOfUrl}/discover/movie?api_key=${API_key}&with_ganres=35`,
-    `${begginingOfUrl}/discover/movie?api_key=${API_key}&with_ganres=27`,
-    `${begginingOfUrl}/discover/movie?api_key=${API_key}&with_ganres=10749`,
-    `${begginingOfUrl}/discover/movie?api_key=${API_key}&with_ganres=99`,
+    `${begginingOfUrl}/discover/movie?api_key=${API_key}&with_genres=80`,
+    `${begginingOfUrl}/discover/movie?api_key=${API_key}&with_genres=35`,
+    `${begginingOfUrl}/discover/movie?api_key=${API_key}&with_genres=27`,
+    `${begginingOfUrl}/discover/movie?api_key=${API_key}&with_genres=10749`,
+    `${begginingOfUrl}/discover/movie?api_key=${API_key}&with_genres=99`,
 ]
 
 export default requests;
